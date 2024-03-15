@@ -1,0 +1,34 @@
+.hero {
+    height: 50vh;
+    padding: 358px 0;
+}
+
+.img-frame {
+    width: 400px;
+}
+
+.hello {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 0;
+}
+
+.img-profile {
+    border: 30px solid black;
+    border-radius: 50%;
+}
+
+.mongodb {
+    height: 4.5em;
+}
+
+#skills ion-icon
+{
+    font-size: 4em;
+}
+
+#skills .mysql-logo, .bootstrap-logo {
+    font-size: 3.5em;
+    line-height: 1.25em;
+}
